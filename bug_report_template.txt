@@ -1,0 +1,9 @@
+Bug ID: BUG001
+Title: Checkout button not responsive
+Steps to Reproduce:
+1. Add a product to cart
+2. Click on 'Checkout'
+Expected Result: Redirect to payment screen
+Actual Result: Nothing happens
+Severity: High
+Status: Open

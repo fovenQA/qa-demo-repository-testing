@@ -1,0 +1,4 @@
+Test Case ID,Title,Steps,Expected Result,Status
+TC001,User Login,Enter valid credentials and click login,User is redirected to dashboard,Pass
+TC002,Add to Cart,Select a product and click 'Add to Cart',Product is added to cart,Pass
+TC003,Checkout,Click on 'Checkout' with items in cart,User is taken to payment screen,Fail
